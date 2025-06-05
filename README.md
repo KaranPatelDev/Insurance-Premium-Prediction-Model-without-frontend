@@ -82,8 +82,7 @@ Content-Type: application/json
 ### 1. Clone the Repository
 
 ```sh
-git clone <your-repo-url>
-cd "Lecture-8-Insurance Premium Prediction Model"
+git clone https://github.com/KaranPatelDev/Insurance-Premium-Prediction-Model-without-frontend.git
 ```
 
 ### 2. Install Dependencies (Locally)
