@@ -133,4 +133,4 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs) to test the API.
 ---
 
 ## Thanks to CodeRabbit
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/KaranPatelDev/Insurance-Premium-Prediction-Model-with-frontend?utm_source=oss&utm_medium=github&utm_campaign=KaranPatelDev%2FInsurance-Premium-Prediction-Model-with-frontend&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+(https://img.shields.io/coderabbit/prs/github/KaranPatelDev/Insurance-Premium-Prediction-Model-with-frontend?utm_source=oss&utm_medium=github&utm_campaign=KaranPatelDev%2FInsurance-Premium-Prediction-Model-with-frontend&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
