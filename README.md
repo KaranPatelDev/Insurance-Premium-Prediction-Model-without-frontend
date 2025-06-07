@@ -130,3 +130,7 @@ Visit [http://localhost:8000/docs](http://localhost:8000/docs) to test the API.
 - **Model Compatibility:** Ensure the `model.pkl` file is compatible with your installed `scikit-learn` version.
 - **MySQL Support:** If you use MySQL features, ensure the database is accessible and credentials are set.
 - **Windows-only Packages:** This project is designed for Linux containers; Windows-only packages (like `pywin32`) are not included.
+---
+
+## Thanks to CodeRabbit
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/KaranPatelDev/Insurance-Premium-Prediction-Model-with-frontend?utm_source=oss&utm_medium=github&utm_campaign=KaranPatelDev%2FInsurance-Premium-Prediction-Model-with-frontend&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
